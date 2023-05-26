@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on my Masteers Degree in the Federal University of Santa Catarina
+ 🔭 I’m currently working on my Masteers Degree in the Federal University of Santa Catarina
 - 🌱 I’m currently learning about Convolutional Neural Networks (My masteers degree disertation)
 - 👯 I’m currently colaborating with NGO DeepVoice
 - 📫 How to reach me: Check my Linkedin
