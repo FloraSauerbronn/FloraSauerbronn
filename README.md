@@ -5,9 +5,10 @@
 
 
 
- 🔭 I’m currently working on my Masteers Degree in the Federal University of Santa Catarina
-- 🌱 I’m currently learning about Convolutional Neural Networks (My masteers degree disertation)
-- 👯 I’m currently colaborating with NGO DeepVoice
+ 🎯 I’m currently working on my Masteers Degree in the Federal University of Santa Catarina
+- 📚 Studying Convolutional Neural Networks (My masteers degree disertation)
+- 🐋 Colaborating with NGO DeepVoice
+- 📈 Former data analyst
 - 📫 How to reach me: Check my Linkedin
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I always was afraid of physics and look at me now.
