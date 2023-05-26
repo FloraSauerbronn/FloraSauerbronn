@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<!--
-**FloraSauerbronn/FloraSauerbronn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Flora Sauerbronn</h1>
+<h3 align="center">A Oceanographer who currently quit beeing a data analyst to get back in researc</h3>
+<h3 align="center"> Brazilian</h3>
 
 
 
