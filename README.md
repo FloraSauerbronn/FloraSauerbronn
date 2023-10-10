@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi, I'm Flora </h1>
-<h3 align="center">A Oceanographer who currently quit beeing a data analyst to get back in research</h3>
+<h3 align="center">A data analyst in ocean research</h3>
 <h3 align="center"> Brazilian</h3>
 
 
