@@ -6,7 +6,7 @@
 
 
  🎯 I’m currently working on my Masteers Degree in the Federal University of Santa Catarina
-- 📚 Studying Convolutional Neural Networks (My masteers degree disertation)
+- 📚 Studying Machine Learning (My masteers degree disertation)
 - 📈 Data analyst
 - 📫 How to reach me: Check my Linkedin
 - 😄 Pronouns: She/Her
