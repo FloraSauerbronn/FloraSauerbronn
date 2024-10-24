@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florasauerbronn&label=Profile%20views&color=0e75b6&style=flat" alt="florasauerbronn" /> </p>
 
-- 🔭 I’m currently working on **my masters degree thesis about automatic detection of acoustic signals**
+- 🔭 I’m currently working on **master’s thesis about the automatic detection of passive acoustic signals**
 
 - 🌱 I’m currently learning **Django and Go**
 
-- 🤝 I’m looking for help with **datascience projects, data viausalization,**
+- 🤝 I’m looking for help with **Software development**
 
-- 📝 I regularly write articles on [https://medium.com/@flora.msauerbronn](https://medium.com/@flora.msauerbronn)
+- 📝 I regularly write articles on [Medium](https://medium.com/@flora.msauerbronn)
 
-- 💬 Ask me about **python, Matlab, Data Visualization, Data storytelling**
+- 💬 Ask me about **Python, MATLAB, data visualization, and data storytelling**
 
-- 📫 How to reach me **send me a dm on linkedin !**
+- 📫 How to reach me **send me a DM on linkedin !**
 
-- 📄 Know about my experiences [https://florasauer.pythonanywhere.com/](https://florasauer.pythonanywhere.com/)
+- 📄 Know about my experiences [in my website](https://florasauer.pythonanywhere.com/)
 
 - ⚡ Fun fact **I'm an oceanographer who loves code and trail run !**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[Who am I ?](https://florasauer.pythonanywhere.com/post/2/)
+[My masters project :) ](https://florasauer.pythonanywhere.com/post/4/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
