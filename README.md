@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flora</h1>
-<h3 align="center">Passsionet for data and research</h3>
+<h3 align="center">Passionate about data and research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florasauerbronn&label=Profile%20views&color=0e75b6&style=flat" alt="florasauerbronn" /> </p>
 
