@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/florasauerbronn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florasauerbronn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/florasauerbronn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="florasauerbronn" height="30" width="40" /></a>
 <a href="https://instagram.com/floramsauerbronn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="floramsauerbronn" height="30" width="40" /></a>
-<a href="https://medium.com/@flora msauerbronn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@flora msauerbronn" height="30" width="40" /></a>
+<a href="https://medium.com/@flora.msauerbronn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@flora msauerbronn" height="30" width="40" /></a>
 <a href="/https://florasauer.pythonanywhere.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://florasauer.pythonanywhere.com/" height="30" width="40" /></a>
 </p>
 
